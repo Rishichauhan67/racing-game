@@ -99,8 +99,8 @@ Learn how to prompt and collaborate effectively with AI
 
 ## Documentation
 
-[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html)
-[Join Amazon community](https://community.aws/content/2xIoduO0xhkhUApQpVUIqBFGmAc/build-games-with-amazon-q-cli-and-score-a-t-shirt?trk=b085178b-f0cb-447b-b32d-bd0641720467&sc_channel=el)
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html)
+- [Join Amazon community](https://community.aws/content/2xIoduO0xhkhUApQpVUIqBFGmAc/build-games-with-amazon-q-cli-and-score-a-t-shirt?trk=b085178b-f0cb-447b-b32d-bd0641720467&sc_channel=el)
 
 
 
