@@ -57,6 +57,7 @@ Welcome to the repository of "Racing Game", a retro-inspired arcade racing exper
 
 ## DEMO
 ![alt text](image-1.png)
+
 ![alt text](image.png)
 
 ## How to Run
