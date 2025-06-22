@@ -74,7 +74,6 @@ python3 retro_racer.py
 ```bash
 cd "/mnt/d/DevSearch/Python game" && python3 test_features.py
 ```
- ⋮
  ```
  ↳ Purpose: Test the simplified game features
  ```
