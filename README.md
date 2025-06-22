@@ -86,7 +86,7 @@ python3 test_features.py
 ## 🛠️ Tech Stack
 
 - Python + Pygame
-- AI Tools: ChatGPT for logic/code, DALL·E for pixel art ideas
+- AI Tools: Amazon Q CLI for logic/code, for pixel art ideas
 - Editor: VS Code
 - OS: Windows + WSL for Linux compatibility
 
